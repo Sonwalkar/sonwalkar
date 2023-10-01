@@ -7,7 +7,7 @@
 - 📝 [Resume](https://github.com/Sonwalkar/Sonwalkar.github.io/blob/master/Resume.pdf)
 
 - **Languages and Tools:** <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,js,ts,nodejs,py,postman,postgres,git,django,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,js,ts,nodejs,postman,git,postgres,py,django,mysql,html,css)](https://skillicons.dev)
 <!--
 **Sonwalkar/sonwalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
