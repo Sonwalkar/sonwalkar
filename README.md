@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Blogs -
+- Automating Time-Based actions using EventBridge's scheduler or DynamoDB: TTL and DDB Stream. [Link](https://www.antstack.com/blog/automating-time-based-actions-using-event-bridge-s-scheduler-or-dynamo-db-ttl-and-ddb-stream/)
+- How to deploy a Django application on Heroku. [Link](https://medium.com/@sonakashay/how-to-host-a-django-application-on-heroku-5b4c48a1b308)
+
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sonwalkar&show_icons=true&theme=gotham" alt="sonwalkar"  style="margin-top:2rem;"/>
