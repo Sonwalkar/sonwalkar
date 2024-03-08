@@ -4,11 +4,12 @@
 
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me: [@LinkedIn](https://www.linkedin.com/in/akshay-sonwalkar)
-- 📝 [Resume](https://github.com/Sonwalkar/Sonwalkar.github.io/blob/master/Resume.pdf)
+
 
 - **Languages and Tools:** <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,js,ts,nodejs,express,jest,postman,git,postgres,py,django,mysql,html,css)](https://skillicons.dev)
 <!--
+- 📝 [Resume](https://github.com/Sonwalkar/Sonwalkar.github.io/blob/master/Resume.pdf)
 **Sonwalkar/sonwalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
