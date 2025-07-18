@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sonwalkar&show_icons=true&theme=gotham" alt="sonwalkar"  style="margin-top:2rem;"/>
+
+### NPM Package
+- AWS ECR Image Cleaner - [Link](https://www.npmjs.com/package/serverless-ecr-image-cleaner)
